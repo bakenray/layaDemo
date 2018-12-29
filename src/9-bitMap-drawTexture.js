@@ -1,11 +1,12 @@
 // //初始化舞台
-// Laya.init(1334, 750);
+// Laya.init(Laya.Browser.width,Laya.Browser.height);
 // //需要切换的图片资源路径
 // this.monkey1 = "../bin/h5/logo.png";
 // this.monkey2 = "../bin/h5/bg.jpg";
 
 // //切换状态
 // this.flag = false;
+
 // //设置舞台背景色
 // Laya.stage.bgColor = "#ffffff";
 // //加载多张图片，在图片资源加载成功后，通过回调方法绘制图片并添加到舞台

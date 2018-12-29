@@ -1,5 +1,6 @@
-// Laya.init(500,400,Laya.WebGL)
 
+
+// Laya.init(Laya.Browser.width,Laya.Browser.height,Laya.WebGL)
 // setup()
 
 // function setup(){
@@ -24,7 +25,7 @@
 //     var txt =new Laya.Text()
 //     txt.text = '很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容很长很长的文字内容'
 //     txt.borderColor ='#ffff00'
-//     txt.size(300,50)
+//     txt.size(300,70)
 //     txt.fontSize =20
 //     txt.color ='#ffffff'
 //     Laya.stage.addChild(txt)

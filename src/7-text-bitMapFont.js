@@ -1,10 +1,13 @@
-// Laya.init(550,400)
+// //位置bug 加载位图失败
+
+// Laya.init(500,600)
+
 // // 自定义文件名称
 // this.mFontName ='diyFont'
 // this.mBitmapFont = new Laya.BitmapFont()
 // //不需要扩展名,保证外部fnt与png文件同名
 
-// this.mBitmapFont.loadFont("../bin/h5/weitu.fnt",new Laya.Handler(this,onLoaded))
+// this.mBitmapFont.loadFont("h5/Bitmap.fnt",new Laya.Handler(this,onLoaded))
 
 // function onLoaded(){
 //     init()
@@ -19,7 +22,7 @@
 //     txt.width =500
 //     txt.wordWrap =true
 //     txt.align ='center'
-//     txt.font =this.mFontName
+//     // txt.font =this.mFontName
 //     txt.fontSize =50
 //     txt.leading =5
 //     Laya.stage.addChild(txt)

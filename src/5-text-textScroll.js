@@ -1,5 +1,7 @@
-// Laya.init(500,400,Laya.WebGL)
+// Laya.init(Laya.Browser.width,Laya.Browser.height,Laya.WebGL)
+
 // createText()
+
 // function createText(){
 //     this.txt =new Laya.Text()
 //     this.txt.overflow = Laya.Text.SCROLL
@@ -8,8 +10,12 @@
 //     "Layabox是HTML5引擎技术提供商与优秀的游戏发行商，面向AS/JS/TS开发者提供HTML5开发技术方案！\n" +
 //     "Layabox是HTML5引擎技术提供商与优秀的游戏发行商，面向AS/JS/TS开发者提供HTML5开发技术方案！\n" +
 //     "Layabox是HTML5引擎技术提供商与优秀的游戏发行商，面向AS/JS/TS开发者提供HTML5开发技术方案！\n" +
+//     "Layabox是HTML5引擎技术提供商与优秀的游戏发行商，面向AS/JS/TS开发者提供HTML5开发技术方案！\n" +
+//     "Layabox是HTML5引擎技术提供商与优秀的游戏发行商，面向AS/JS/TS开发者提供HTML5开发技术方案！\n" +
+//     "Layabox是HTML5引擎技术提供商与优秀的游戏发行商，面向AS/JS/TS开发者提供HTML5开发技术方案！\n" +
+//     "Layabox是HTML5引擎技术提供商与优秀的游戏发行商，面向AS/JS/TS开发者提供HTML5开发技术方案！\n" +
 //     "Layabox是HTML5引擎技术提供商与优秀的游戏发行商，面向AS/JS/TS开发者提供HTML5开发技术方案！"
-//     this.txt.size(200,100)
+//     this.txt.size(400,200)
 //     this.txt.x =Laya.stage.width - this.txt.width>>1
 //     this.txt.y =Laya.stage.height -this.txt.height>>1
 //     this.txt.borderColor ='#ffff00'
