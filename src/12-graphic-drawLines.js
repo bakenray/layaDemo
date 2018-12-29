@@ -1,10 +1,16 @@
+// 绘制折线
+
 // (function(){
 //     var WebGL = Laya.WebGL
 //     var Stage =Laya.Stage
 //     var Sprite = Laya.Sprite
+//     var Width = Laya.Browser.width
+//     var Height = Laya.Browser.height
+
 //     var sp
+
 //     (function(){
-//         Laya.init(500,300,WebGL)
+//         Laya.init(Width,Height,WebGL)
 //         drawSomething()
 //     })()
 
